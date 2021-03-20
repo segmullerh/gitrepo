@@ -5,6 +5,9 @@ All of these functions make use of accumulators that make new lists.
 
 Author: Hermann Segmuller
 Date: 1/17/2021
+
+Change Log:
+    no changes made, just added change log
 """
 
 
